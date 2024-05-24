@@ -3,7 +3,7 @@ from telegram import Update, Bot, ParseMode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 import requests
 
-API_TOKEN = 'YOUR_BOT_API_TOKEN'
+API_TOKEN = '7025435221:AAFEY838oCP45vZR6Ab8xsWls1XDzKA_lTU'
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
